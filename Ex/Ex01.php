@@ -16,7 +16,7 @@
     }
     echo ("Red")."\n";
     echo test("Green")."\n";
-    echo test("1")."\n";
+    
     
     ?>
 
